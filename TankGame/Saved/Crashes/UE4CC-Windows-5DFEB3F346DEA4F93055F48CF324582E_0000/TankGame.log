@@ -1,0 +1,1348 @@
+﻿Log file open, 03/11/20 16:59:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TankGame
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.117506
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz, GPU: Intel(R) UHD Graphics 620
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.03.11-14.59.57:685][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.03.11-14.59.57:686][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.03.11-14.59.57:687][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:687][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.11-14.59.57:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:688][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:692][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:692][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.11-14.59.57:692][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.11-14.59.57:692][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:692][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.11-14.59.57:692][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.11-14.59.57:693][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.11-14.59.57:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.11-14.59.57:695][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:695][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.11-14.59.57:695][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.11-14.59.57:695][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.11-14.59.57:695][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.11-14.59.57:695][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.11-14.59.57:699][  0]LogHAL: Display: Platform has ~ 8 GB [8394526720 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.11-14.59.57:699][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.11-14.59.57:699][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:699][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.11-14.59.57:699][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.11-14.59.57:699][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.11-14.59.57:700][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.03.11-14.59.57:701][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Scalability.ini]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.11-14.59.57:702][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Config/Windows/Engine.ini]
+[2020.03.11-14.59.57:702][  0]LogInit: Computer: DESKTOP-HMCQK1O
+[2020.03.11-14.59.57:702][  0]LogInit: User: etoya
+[2020.03.11-14.59.57:702][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.11-14.59.57:702][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.11-14.59.57:703][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.03.11-14.59.57:703][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.11-14.59.57:703][  0]LogMemory: Process Physical Memory: 105.52 MB used, 105.52 MB peak
+[2020.03.11-14.59.57:703][  0]LogMemory: Process Virtual Memory: 100.65 MB used, 100.65 MB peak
+[2020.03.11-14.59.57:703][  0]LogMemory: Physical Memory: 5209.50 MB used,  2796.15 MB free, 8005.64 MB total
+[2020.03.11-14.59.57:703][  0]LogMemory: Virtual Memory: 5103.17 MB used,  134212624.00 MB free, 134217728.00 MB total
+[2020.03.11-14.59.57:707][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.03.11-14.59.57:732][  0]LogInit: Using OS detected language (en-US).
+[2020.03.11-14.59.57:732][  0]LogInit: Using OS detected locale (en-US).
+[2020.03.11-14.59.57:734][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.11-14.59.57:976][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.11-14.59.58:026][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.11-14.59.58:026][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.11-14.59.58:310][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.11-14.59.58:310][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.03.11-14.59.58:310][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.03.11-14.59.58:310][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.11-14.59.58:405][  0]LogD3D11RHI:    0. 'NVIDIA GeForce MX250' (Feature Level 11_0)
+[2020.03.11-14.59.58:405][  0]LogD3D11RHI:       1983/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.11-14.59.58:425][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2020.03.11-14.59.58:425][  0]LogD3D11RHI:       128/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.03.11-14.59.58:428][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.11-14.59.58:428][  0]LogD3D11RHI:       0/0/4002 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.11-14.59.58:428][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.11-14.59.58:470][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.11-14.59.58:470][  0]LogD3D11RHI:     GPU DeviceId: 0x1d13 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.11-14.59.58:470][  0]LogWindows: EnumDisplayDevices:
+[2020.03.11-14.59.58:471][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2020.03.11-14.59.58:471][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.11-14.59.58:471][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2020.03.11-14.59.58:472][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.03.11-14.59.58:472][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce MX250
+[2020.03.11-14.59.58:472][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.03.11-14.59.58:472][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.03.11-14.59.58:472][  0]LogRHI: Texture pool is 1388 MB (70% of 1983 MB)
+[2020.03.11-14.59.58:540][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.03.11-14.59.58:541][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.11-14.59.58:562][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.03.11-14.59.59:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.03.11-14.59.59:138][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.03.11-14.59.59:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.03.11-14.59.59:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.03.11-14.59.59:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.11-14.59.59:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.03.11-14.59.59:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.03.11-14.59.59:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.03.11-14.59.59:256][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.03.11-14.59.59:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.03.11-14.59.59:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.03.11-14.59.59:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.03.11-14.59.59:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.03.11-14.59.59:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.03.11-14.59.59:359][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.11-14.59.59:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.03.11-14.59.59:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.03.11-14.59.59:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.03.11-14.59.59:399][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.11-14.59.59:404][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.11-14.59.59:445][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Intermediate/Shaders/WorkingDirectory/16700/).
+[2020.03.11-14.59.59:446][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/etoya/AppData/Local/Temp/UnrealShaderWorkingDir/CCA46785439C78ED6FDE8E9A0A74BF1E/'.
+[2020.03.11-14.59.59:446][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.11-14.59.59:447][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.11-14.59.59:447][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.11-15.00.00:687][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB C:/Users/etoya/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/etoya/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.11-15.00.00:816][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.11-15.00.00:830][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.11-15.00.00:830][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.11-15.00.00:830][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.11-15.00.00:832][  0]LogDerivedDataCache: Using Local data cache path C:/Users/etoya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.11-15.00.00:832][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.11-15.00.00:832][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.11-15.00.00:866][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.11-15.00.00:869][  0]LogSlate: Using FreeType 2.10.0
+[2020.03.11-15.00.00:870][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.11-15.00.00:948][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.03.11-15.00.01:354][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.11-15.00.01:604][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.11-15.00.01:604][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.11-15.00.01:604][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.11-15.00.01:604][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.11-15.00.01:604][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.11-15.00.01:623][  0]LogNetVersion: TankGame 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 890800619)
+[2020.03.11-15.00.03:240][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.042774 seconds
+[2020.03.11-15.00.03:250][  0]LogUObjectArray: 46746 objects as part of root set at end of initial load.
+[2020.03.11-15.00.03:250][  0]LogUObjectAllocator: 8135816 out of 0 bytes used by permanent object pool.
+[2020.03.11-15.00.03:250][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.11-15.00.03:809][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.11-15.00.03:813][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.11-15.00.03:881][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.03:881][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.03:883][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.03:884][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.03:885][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.03:999][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.11-15.00.04:012][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.11-15.00.04:012][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.03.11-15.00.04:133][  0]LogOcInput: OculusInput pre-init called
+[2020.03.11-15.00.04:144][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.03.11-15.00.04:144][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.03.11-15.00.04:245][  0]LogEngine: Initializing Engine...
+[2020.03.11-15.00.04:247][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.11-15.00.04:248][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.11-15.00.04:736][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.11-15.00.04:744][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.00.04:815][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.00.04:815][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.00.04:816][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.00.04:816][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.00.04:844][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.00.04:846][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.00.05:014][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.00.05:020][  0]LogInit: FAudioDevice initialized.
+[2020.03.11-15.00.05:021][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.11-15.00.05:112][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/etoya/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.03.11-15.00.05:114][  0]LogInit: Texture streaming: Enabled
+[2020.03.11-15.00.05:127][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.11-15.00.05:127][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.03.11-15.00.05:133][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.03.11-15.00.05:178][  0]LogInit: Transaction tracking system initialized
+[2020.03.11-15.00.05:190][  0]BlueprintLog: New page: Editor Load
+[2020.03.11-15.00.05:225][  0]LocalizationService: Localization service is disabled
+[2020.03.11-15.00.05:617][  0]LogFileCache: Scanning file cache for directory 'C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/' took 0.01s
+[2020.03.11-15.00.05:617][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.11-15.00.05:617][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.11-15.00.06:793][  0]SourceControl: Source control is disabled
+[2020.03.11-15.00.06:793][  0]Cmd: MAP LOAD FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-15.00.06:794][  0]LightingResults: New page: Lighting Build
+[2020.03.11-15.00.06:795][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.00.06:795][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.00.06:795][  0]MapCheck: New page: Map Check
+[2020.03.11-15.00.06:795][  0]LightingResults: New page: Lighting Build
+[2020.03.11-15.00.06:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.03.11-15.00.07:021][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.00.07:034][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-15.00.07:079][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2020.03.11-15.00.07:079][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-15.00.07:080][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.288ms to complete.
+[2020.03.11-15.00.07:080][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.287
+[2020.03.11-15.00.07:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.07:262][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.07:272][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.07:283][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.07:295][  0]LogCollectionManager: Loaded 0 collections in 0.004650 seconds
+[2020.03.11-15.00.07:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Collections/' took 0.00s
+[2020.03.11-15.00.07:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/Developers/etoya/Collections/' took 0.00s
+[2020.03.11-15.00.07:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/Collections/' took 0.00s
+[2020.03.11-15.00.07:315][  0]LogContentBrowser: Native class hierarchy populated in 0.0126 seconds. Added 3015 classes and 717 folders.
+[2020.03.11-15.00.07:318][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.11-15.00.07:450][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.11-15.00.07:454][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.03.11-15.00.07:525][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.11-15.00.07:528][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.11-15.00.07:535][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.11-15.00.07:661][  0]LogRenderer: Reallocating scene render targets to support 1124x608 Format 10 NumSamples 1 (Frame:1).
+[2020.03.11-15.00.07:730][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.11-15.00.07:850][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.03.11-15.00.07:850][  0]LogLoad: (Engine Initialization) Total time: 13.54 seconds
+[2020.03.11-15.00.07:850][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.11-15.00.08:053][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.11-15.00.08:132][  1]LogAssetRegistry: Asset discovery search completed in 7.1847 seconds
+[2020.03.11-15.00.08:138][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000010 seconds (updated 0 objects)
+[2020.03.11-15.00.08:913][ 52]LogSlate: Took 0.000458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.11-15.00.15:763][610]LogLinker: Warning: Failed to load '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default': Can't resolve asset name
+[2020.03.11-15.00.15:818][610]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI.UI
+[2020.03.11-15.00.16:225][610]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 121 classes and 0 folders.
+[2020.03.11-15.00.17:900][610]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.11-15.00.21:319][808]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.00.21:346][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.00.21:346][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-15.00.21:347][808]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:00:21 PM)
+[2020.03.11-15.00.21:348][808]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.03.11-15.00.21:350][808]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.03.11-15.00.21:350][808]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.00.21:360][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009677s)
+[2020.03.11-15.00.21:361][808]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.00.21:362][808]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2020.03.11-15.00.21:362][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011744s)
+[2020.03.11-15.00.21:461][808]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2020.03.11-15.00.21:463][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.00.21:463][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.00.21:463][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.00.21:464][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.00.21:464][808]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.00.21:464][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.00.21:464][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.00.21:464][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.00.21:464][808]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.00.21:464][808]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.00.21:471][808]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.00.21:497][808]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.00.21:499][808]LogInit: FAudioDevice initialized.
+[2020.03.11-15.00.21:520][808]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.00.21:522][808]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.00.21
+[2020.03.11-15.00.21:524][808]LogWorld: Bringing up level for play took: 0.001752
+[2020.03.11-15.00.21:524][808]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.03.11-15.00.21:528][808]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.03.11-15.00.21:528][808]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default -0.05
+[2020.03.11-15.00.21:529][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.00.26:375][ 77]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.00.26:376][ 77]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-15.00.26:386][ 77]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-15.00.26:386][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.00.26:387][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.26:387][ 77]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.00.26:387][ 77]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.00.26:387][ 77]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.00.26:387][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.00.26:400][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.00.26:400][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.00.26:410][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.00.26:495][ 77]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.00.26:500][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.00.26:564][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   8.84ms
+[2020.03.11-15.00.26:608][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.03.11-15.00.32:089][345]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2020.03.11-15.01.20:020][568]LogSlate: Took 0.001274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.11-15.01.29:905][121]LogUObjectHash: Compacting FUObjectHashTables data took   9.77ms
+[2020.03.11-15.01.30:062][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.11-15.01.30:529][121]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Minimal_Default34E49B4B466DCC064A4AFEAB8EC3B06D.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2020.03.11-15.01.30:623][121]LogFileHelpers: Saving map 'Minimal_Default' took 0.653
+[2020.03.11-15.01.30:665][121]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.03.11-15.01.30:666][121]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.11-15.01.31:053][149]BlueprintLog: New page: Compile Minimal_Default
+[2020.03.11-15.01.31:439][149]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.03.11-15.01.33:493][279]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.01.33:493][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.01.53:063][277]LogEditorTransaction: Undo Resize Widget
+[2020.03.11-15.03.13:239][  7]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CameraActor_Blueprint.CameraActor_Blueprint
+[2020.03.11-15.03.55:782][189]LogEditorViewport: Clicking on Actor (LMB): PlayerTank_C (PlayerTank)
+[2020.03.11-15.03.58:488][319]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerTank.PlayerTank
+[2020.03.11-15.04.33:690][892]LogSlate: Took 0.008555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.03.11-15.04.45:129][467]LogSlate: Took 0.001437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: request failed, libcurl error: 0 (No error)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27018b5ff70 [can pipeline])
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.1.184.222) port 443 (#1))
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 7 (Closing connection 1)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: 00000270BB8AB600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.03.11-15.05.13:520][952]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.06.54:149][613]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.03.11-15.06.58:580][805]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.11-15.06.58:593][805]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.03.11-15.08.13:274][ 34]LogHttp: Warning: 00000270C791D800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.08.13:274][ 34]LogHttp: Warning: 00000270C791D800: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.08.13:274][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 0 (  Trying 52.1.184.222...)
+[2020.03.11-15.08.13:274][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 2 (connect to 52.1.184.222 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 3 (  Trying 34.196.201.71...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 5 (After 19484ms connect time, move on!)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 6 (connect to 34.196.201.71 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 7 (  Trying 34.196.69.246...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 8 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 9 (After 9742ms connect time, move on!)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 10 (connect to 34.196.69.246 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 11 (  Trying 52.0.25.43...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 12 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 13 (After 4867ms connect time, move on!)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 14 (connect to 52.0.25.43 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 15 (  Trying 54.86.222.40...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 16 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 17 (After 2430ms connect time, move on!)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 18 (connect to 54.86.222.40 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 19 (  Trying 52.2.38.227...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 20 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 21 (After 1211ms connect time, move on!)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 22 (connect to 52.2.38.227 port 443 failed: Timed out)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 23 (  Trying 54.82.163.3...)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 24 (TCP_NODELAY set)
+[2020.03.11-15.08.13:275][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 25 (After 601ms connect time, move on!)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 26 (connect to 54.82.163.3 port 443 failed: Timed out)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 27 (  Trying 52.73.243.175...)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 28 (TCP_NODELAY set)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 29 (After 297ms connect time, move on!)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 30 (connect to 52.73.243.175 port 443 failed: Timed out)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 31 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: 00000270C791D800: libcurl info message cache 32 (Closing connection 2)
+[2020.03.11-15.08.13:276][ 34]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.09.40:784][ 98]BlueprintLog: New page: Compile UI
+[2020.03.11-15.09.41:044][ 98]LogUObjectHash: Compacting FUObjectHashTables data took  17.91ms
+[2020.03.11-15.09.43:661][192]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.09.43:683][192]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.09.43:683][192]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.11-15.09.43:694][192]LogPlayLevel: [PlayLevel] Compiling PlayerTank before play...
+[2020.03.11-15.09.44:090][192]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.03.11-15.09.44:090][192]LogPlayLevel: PlayLevel: Blueprint regeneration took 407 ms (1 blueprints)
+[2020.03.11-15.09.44:090][192]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:09:44 PM)
+[2020.03.11-15.09.44:091][192]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.09.44:095][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004744s)
+[2020.03.11-15.09.44:097][192]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.09.44:097][192]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2020.03.11-15.09.44:097][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006220s)
+[2020.03.11-15.09.44:157][192]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.09.44:158][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.09.44:158][192]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.09.44:158][192]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.09.44:164][192]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.09.44:165][192]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.09.44:186][192]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.09.44:188][192]LogInit: FAudioDevice initialized.
+[2020.03.11-15.09.44:209][192]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.09.44:211][192]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.09.44
+[2020.03.11-15.09.44:211][192]LogWorld: Bringing up level for play took: 0.001744
+[2020.03.11-15.09.44:211][192]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.03.11-15.09.44:290][192]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default 0.711
+[2020.03.11-15.09.44:290][192]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.09.49:021][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.09.49:026][529]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-15.09.49:036][529]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-15.09.49:036][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.09.49:037][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.09.49:037][529]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.09.49:037][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.09.49:037][529]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.09.49:038][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.09.49:056][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.09.49:057][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.09.49:067][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.09.49:167][529]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.09.49:173][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.09.49:183][529]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2020.03.11-15.09.49:227][530]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.11-15.10.13:335][568]LogHttp: Warning: 00000270AD150540: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.10.13:335][568]LogHttp: Warning: 00000270AD150540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.11-15.10.13:335][568]LogHttp: Warning: 00000270AD150540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.11-15.10.13:335][568]LogHttp: Warning: 00000270AD150540: libcurl info message cache 1 (Closing connection 3)
+[2020.03.11-15.10.13:335][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.10.46:200][132]LogEditorTransaction: Undo Move Nodes
+[2020.03.11-15.11.27:782][228]BlueprintLog: New page: Compile PlayerTank
+[2020.03.11-15.11.28:337][228]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2020.03.11-15.11.34:136][467]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.11.34:231][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.34:231][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-15.11.34:232][467]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:11:34 PM)
+[2020.03.11-15.11.34:232][467]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.11.34:244][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011490s)
+[2020.03.11-15.11.34:246][467]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.11.34:247][467]LogPlayLevel: PIE: World Init took: (0.003052s)
+[2020.03.11-15.11.34:247][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014943s)
+[2020.03.11-15.11.34:374][467]LogUObjectHash: Compacting FUObjectHashTables data took  13.45ms
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.11.34:375][467]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.11.34:375][467]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.11.34:376][467]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.11.34:376][467]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.11.34:388][467]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.11.34:388][467]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.11.34:388][467]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.11.34:388][467]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.11.34:389][467]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.11.34:389][467]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.11.34:389][467]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.11.34:389][467]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.11.34:389][467]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.11.34:434][467]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.11.34:438][467]LogInit: FAudioDevice initialized.
+[2020.03.11-15.11.34:451][467]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.11.34:456][467]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.11.34
+[2020.03.11-15.11.34:457][467]LogWorld: Bringing up level for play took: 0.002899
+[2020.03.11-15.11.34:457][467]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.03.11-15.11.34:463][467]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default 0.884
+[2020.03.11-15.11.34:463][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.45:062][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.45:062][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.45:063][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.45:063][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.11.45:063][452]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.11.45:063][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.45:064][452]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.11.45:064][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.11.45:105][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.11.45:105][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.45:116][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.11.45:230][452]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.45:239][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.11.45:251][452]LogUObjectHash: Compacting FUObjectHashTables data took   9.05ms
+[2020.03.11-15.11.45:300][453]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.11-15.11.45:874][483]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.11.45:912][483]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.45:912][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.11-15.11.45:912][483]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:11:45 PM)
+[2020.03.11-15.11.45:913][483]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.11.45:922][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009154s)
+[2020.03.11-15.11.45:924][483]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.11.45:924][483]LogPlayLevel: PIE: World Init took: (0.002312s)
+[2020.03.11-15.11.45:925][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011804s)
+[2020.03.11-15.11.46:037][483]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.11.46:038][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.11.46:039][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.11.46:039][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.11.46:039][483]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.11.46:039][483]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.11.46:049][483]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.11.46:050][483]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.11.46:091][483]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.11.46:094][483]LogInit: FAudioDevice initialized.
+[2020.03.11-15.11.46:113][483]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.11.46:118][483]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.11.46
+[2020.03.11-15.11.46:119][483]LogWorld: Bringing up level for play took: 0.003287
+[2020.03.11-15.11.46:119][483]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.03.11-15.11.46:124][483]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default 0.545
+[2020.03.11-15.11.46:124][483]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.51:790][ 65]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.51:796][ 65]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-15.11.51:807][ 65]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-15.11.51:807][ 65]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.51:808][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.11.51:808][ 65]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.11.51:808][ 65]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.51:808][ 65]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.11.51:809][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.11.51:826][ 65]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.11.51:827][ 65]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.11.51:838][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.11.51:942][ 65]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.11.51:949][ 65]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.11.51:959][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.03.11-15.11.52:007][ 66]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.11-15.12.13:393][ 65]LogHttp: Warning: 00000270B7493D80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.12.13:393][ 65]LogHttp: Warning: 00000270B7493D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.03.11-15.12.13:393][ 65]LogHttp: Warning: 00000270B7493D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.03.11-15.12.13:393][ 65]LogHttp: Warning: 00000270B7493D80: libcurl info message cache 1 (Closing connection 4)
+[2020.03.11-15.12.13:414][ 66]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: libcurl info message cache 0 (  Trying 172.18.214.206...)
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: libcurl info message cache 1 (TCP_NODELAY set)
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: libcurl info message cache 2 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: libcurl info message cache 3 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.14.15:509][  7]LogHttp: Warning: 00000270ADD0E840: libcurl info message cache 4 (Closing connection 5)
+[2020.03.11-15.14.15:529][  8]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.14.34:667][977]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2020.03.11-15.14.34:801][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.11-15.14.35:222][977]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Minimal_Default10B973C0498E2451A20E5F9F990C8CDD.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2020.03.11-15.14.35:333][977]LogFileHelpers: Saving map 'Minimal_Default' took 0.609
+[2020.03.11-15.14.35:394][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerTank" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/PlayerTank.uasset" SILENT=true
+[2020.03.11-15.14.35:608][977]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/PlayerTankD18738AA4A97B7A21F9C2F8B2BB1AEE8.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/PlayerTank.uasset'
+[2020.03.11-15.14.35:610][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset" SILENT=true
+[2020.03.11-15.14.35:638][977]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/UIB13DC1D44196D07516BA98B3EA4BA5E8.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset'
+[2020.03.11-15.14.35:680][977]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-15.14.35:680][977]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.11-15.14.35:680][977]LogContentValidation: Display: Validating Blueprint /Game/PlayerTank.PlayerTank
+[2020.03.11-15.14.35:680][977]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI.UI
+[2020.03.11-15.14.36:702][ 28]BlueprintLog: New page: Compile PlayerTank
+[2020.03.11-15.14.37:111][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: 0000027089E67D80: libcurl info message cache 5 (Closing connection 6)
+[2020.03.11-15.16.17:590][672]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.16.25:194][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   9.23ms
+[2020.03.11-15.16.25:329][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.11-15.16.25:734][ 27]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Minimal_Default4251B2304C4F19D6073ACFA43273A6F3.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2020.03.11-15.16.25:771][ 27]LogFileHelpers: Saving map 'Minimal_Default' took 0.523
+[2020.03.11-15.16.25:771][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset" SILENT=true
+[2020.03.11-15.16.25:807][ 27]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/UI81F91CF2427F646099249B947261F980.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset'
+[2020.03.11-15.16.25:839][ 27]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-15.16.25:840][ 27]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.11-15.16.25:840][ 27]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI.UI
+[2020.03.11-15.16.30:749][169]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.16.30:772][169]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.16.30:772][169]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.11-15.16.30:774][169]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2020.03.11-15.16.31:148][169]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.03.11-15.16.31:149][169]LogPlayLevel: PlayLevel: Blueprint regeneration took 376 ms (1 blueprints)
+[2020.03.11-15.16.31:149][169]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:16:31 PM)
+[2020.03.11-15.16.31:149][169]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.16.31:153][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004232s)
+[2020.03.11-15.16.31:154][169]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.16.31:154][169]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2020.03.11-15.16.31:154][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005473s)
+[2020.03.11-15.16.31:204][169]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.16.31:204][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.16.31:204][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.16.31:204][169]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.16.31:205][169]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.16.31:211][169]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.16.31:231][169]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.16.31:233][169]LogInit: FAudioDevice initialized.
+[2020.03.11-15.16.31:254][169]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.16.31:256][169]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.16.31
+[2020.03.11-15.16.31:256][169]LogWorld: Bringing up level for play took: 0.001422
+[2020.03.11-15.16.31:257][169]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.03.11-15.16.31:259][169]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default -0.319
+[2020.03.11-15.16.31:260][169]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.16.36:354][453]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.16.36:357][453]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-15.16.36:366][453]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-15.16.36:366][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.16.36:367][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.16.36:367][453]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.16.36:367][453]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.16.36:367][453]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.16.36:367][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.16.36:408][453]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.16.36:408][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.16.36:417][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.16.36:492][453]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.16.36:497][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.16.36:505][453]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.03.11-15.16.36:551][454]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.11-15.18.19:698][204]LogHttp: Warning: 00000270A34825C0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: 00000270A34825C0: libcurl info message cache 5 (Closing connection 7)
+[2020.03.11-15.18.19:699][204]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.19.11:943][794]LogEditorTransaction: Undo Move Node
+[2020.03.11-15.19.12:522][803]LogEditorTransaction: Undo Move Node
+[2020.03.11-15.19.42:843][238]BlueprintLog: New page: Compile PlayerTank
+[2020.03.11-15.19.43:319][238]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: 000002708C527600: libcurl info message cache 5 (Closing connection 8)
+[2020.03.11-15.20.21:752][ 30]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.22.23:862][329]LogHttp: Warning: 00000270AC6E9580: libcurl info message cache 5 (Closing connection 9)
+[2020.03.11-15.22.23:901][330]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.24.02:111][541]LogUObjectHash: Compacting FUObjectHashTables data took   9.87ms
+[2020.03.11-15.24.02:239][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.11-15.24.02:644][541]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Minimal_Default864459B746CC776A8B25B09D52CBAA01.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2020.03.11-15.24.02:757][541]LogFileHelpers: Saving map 'Minimal_Default' took 0.600
+[2020.03.11-15.24.02:758][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CameraActor_Blueprint" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/CameraActor_Blueprint.uasset" SILENT=true
+[2020.03.11-15.24.02:808][541]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/CameraActor_BlueprintF2FF72C64F24F015DA9C9A84DB934376.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/CameraActor_Blueprint.uasset'
+[2020.03.11-15.24.02:857][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerTank" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/PlayerTank.uasset" SILENT=true
+[2020.03.11-15.24.02:935][541]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/PlayerTank90DA64B346D68F076BB456BECD835FBE.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/PlayerTank.uasset'
+[2020.03.11-15.24.02:937][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI" FILE="../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset" SILENT=true
+[2020.03.11-15.24.02:976][541]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/UID6477E5D4D7D8ADC7AEE73B0C21FD9B7.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/UI.uasset'
+[2020.03.11-15.24.03:021][541]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-15.24.03:021][541]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.11-15.24.03:021][541]LogContentValidation: Display: Validating Blueprint /Game/CameraActor_Blueprint.CameraActor_Blueprint
+[2020.03.11-15.24.03:022][541]LogContentValidation: Display: Validating Blueprint /Game/PlayerTank.PlayerTank
+[2020.03.11-15.24.03:022][541]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI.UI
+[2020.03.11-15.24.04:852][593]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.11-15.24.04:908][593]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.24.04:908][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.11-15.24.04:932][593]LogPlayLevel: [PlayLevel] Compiling PlayerTank before play...
+[2020.03.11-15.24.05:316][593]LogPlayLevel: [PlayLevel] Compiling UI before play...
+[2020.03.11-15.24.05:676][593]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.03.11-15.24.05:676][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 767 ms (2 blueprints)
+[2020.03.11-15.24.05:676][593]PIE: New page: PIE session: Minimal_Default (Mar 11, 2020, 7:24:05 PM)
+[2020.03.11-15.24.05:676][593]LogPlayLevel: Creating play world package: /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.24.05:681][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004843s)
+[2020.03.11-15.24.05:683][593]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.11-15.24.05:683][593]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2020.03.11-15.24.05:683][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default to /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006407s)
+[2020.03.11-15.24.05:744][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.11-15.24.05:745][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.11-15.24.05:745][593]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.11-15.24.05:745][593]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Is Default: Yes
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: Channel Order:
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.11-15.24.05:752][593]LogAudioMixer: Display: 1: FrontRight
+[2020.03.11-15.24.05:775][593]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.03.11-15.24.05:777][593]LogInit: FAudioDevice initialized.
+[2020.03.11-15.24.05:788][593]LogLoad: Game class is 'NewGameMode_C'
+[2020.03.11-15.24.05:791][593]LogWorld: Bringing World /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2020.03.11-17.24.05
+[2020.03.11-15.24.05:791][593]LogWorld: Bringing up level for play took: 0.001358
+[2020.03.11-15.24.05:791][593]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2020.03.11-15.24.05:794][593]PIE: Play in editor start time for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default 0.215
+[2020.03.11-15.24.05:795][593]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.24.10:500][944]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.24.10:506][944]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.11-15.24.10:516][944]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.11-15.24.10:516][944]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.24.10:516][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.24.10:517][944]LogWorld: BeginTearingDown for /Game/MobileStarterContent/Maps/UEDPIE_0_Minimal_Default
+[2020.03.11-15.24.10:517][944]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.24.10:517][944]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.24.10:518][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.10:539][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.11-15.24.10:539][944]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2020.03.11-15.24.10:550][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.10:654][944]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-15.24.10:661][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.11-15.24.10:671][944]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2020.03.11-15.24.10:720][945]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: 00000270CCBE9800: libcurl info message cache 5 (Closing connection 10)
+[2020.03.11-15.24.26:457][790]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.24.27:395][847]LogSlate: Window 'PlayerTank' being destroyed
+[2020.03.11-15.24.27:407][847]LogSlate: Window 'PlayerTank' being destroyed
+[2020.03.11-15.24.27:500][847]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.24.27:501][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.27:509][847]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.24.27:509][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.27:589][847]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.24.27:590][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.27:648][847]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.11-15.24.27:648][847]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.24.27:648][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.24.31:947][179]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default
+[2020.03.11-15.24.59:494][700]BlueprintLog: New page: Compile Minimal_Default
+[2020.03.11-15.24.59:965][700]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2020.03.11-15.25.13:997][480]LogUObjectHash: Compacting FUObjectHashTables data took   9.37ms
+[2020.03.11-15.25.14:154][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.11-15.25.14:623][480]LogSavePackage: Moving '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Saved/Minimal_DefaultACA26A6C46D90F971A66BBB6D03F95B5.tmp' to '../../../../../../Users/etoya/OneDrive/Documents/GitHub/TankMobileProjectUE4/TankGame/Content/MobileStarterContent/Maps/Minimal_Default.umap'
+[2020.03.11-15.25.14:737][480]LogFileHelpers: Saving map 'Minimal_Default' took 0.676
+[2020.03.11-15.25.14:797][480]AssetCheck: New page: Asset Save: Minimal_Default
+[2020.03.11-15.25.14:797][480]LogContentValidation: Display: Validating World /Game/MobileStarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.03.11-15.25.15:632][512]LogSlate: Window 'Minimal_Default' being destroyed
+[2020.03.11-15.25.15:652][512]LogSlate: Window 'Minimal_Default' being destroyed
+[2020.03.11-15.25.15:653][512]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-15.25.15:653][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-15.25.28:883][299]LogActorFactory: Actor Factory created Cube
+[2020.03.11-15.25.32:387][597]LogActorFactory: Actor Factory created Cube
+[2020.03.11-15.25.46:854][591]Cmd: DELETE
+[2020.03.11-15.25.46:854][591]Cmd: ACTOR DELETE
+[2020.03.11-15.25.46:933][591]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-15.25.47:030][591]LogUObjectHash: Compacting FUObjectHashTables data took   9.59ms
+[2020.03.11-15.25.47:038][591]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2020.03.11-15.26.10:711][178]LogSlate: Window 'Select Path' being destroyed
+[2020.03.11-15.26.10:918][178]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2020.03.11-15.26.11:010][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FinishBlueprint.FinishBlueprint
+[2020.03.11-15.26.11:853][178]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2020.03.11-15.26.28:528][919]LogHttp: Warning: 000002705AE8A340: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.26.28:528][919]LogHttp: Warning: 000002705AE8A340: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.26.28:528][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.26.28:529][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.26.28:529][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.26.28:529][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.26.28:529][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.26.28:529][919]LogHttp: Warning: 000002705AE8A340: libcurl info message cache 5 (Closing connection 11)
+[2020.03.11-15.26.28:549][920]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.28.30:636][617]LogHttp: Warning: 000002705AEA2700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.28.30:637][617]LogHttp: Warning: 000002705AEA2700: libcurl info message cache 5 (Closing connection 12)
+[2020.03.11-15.28.30:660][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.28.55:359][561]BlueprintLog: New page: Compile FinishBlueprint
+[2020.03.11-15.28.55:909][561]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2020.03.11-15.29.16:942][376]BlueprintLog: New page: Compile FinishBlueprint
+[2020.03.11-15.29.17:452][376]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.03.11-15.29.40:906][269]BlueprintLog: New page: Compile FinishBlueprint
+[2020.03.11-15.29.41:391][269]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.03.11-15.30.19:850][583]BlueprintLog: New page: Compile FinishBlueprint
+[2020.03.11-15.30.20:202][583]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 1 (  Trying 172.18.214.206...)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 3 (connect to 172.18.214.206 port 443 failed: Connection refused)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 4 (Failed to connect to datarouter.ol.epicgames.com port 443: Connection refused)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: 0000027085181BC0: libcurl info message cache 5 (Closing connection 13)
+[2020.03.11-15.30.32:748][ 80]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD5297B8F-4417-A2DD-AF82-C287F644A567%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=bc646e3349a839ce8a95bfa4f5d48bb4%7C332337d46dff4b068aa5ce8e8c3bef78%7C11c3f8ac-03b6-49f5-acaf-b8f693592b8c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.03.11-15.31.13:668][562]LogEditorTransaction: Undo Set Scale
+[2020.03.11-15.31.13:870][562]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.03.11-15.31.14:610][562]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.741 s
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: === Handled ensure: ===
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: 
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: 
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: Stack: 
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: [Callstack] 0x00007ffcae56c918 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: [Callstack] 0x00007ffcada30cf0 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:610][562]LogOutputDevice: Error: [Callstack] 0x00007ffcad9e1e1a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc75b38a16 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc75b399b5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc75af3d01 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf3d889a UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf448d51 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf4083d9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf38e957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf470050 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf26f418 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf26fcfa UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf218d05 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88d35644 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88af7b7a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88ad1699 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88e28613 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88e0c378 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88dbdc24 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88e1460d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88e14dae UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88ab2de3 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88adfca6 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88afd20d UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcad9e22ad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcada073b6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcad9f2d4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcada8ea93 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcada2ec6f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffc88ad25c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf219ada UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf2503de UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcae20568e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcae1f3221 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf1e1041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf25224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcaf247b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcce4d4918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcce4c242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcce4d7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcce4bec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcf7205b6d USER32.dll!UnknownFunction []
+[2020.03.11-15.31.14:611][562]LogOutputDevice: Error: [Callstack] 0x00007ffcf7205562 USER32.dll!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ffcce4d8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ff6ba7c6db0 UE4Editor.exe!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ff6ba7dc3ec UE4Editor.exe!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ff6ba7dc4ca UE4Editor.exe!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ff6ba7eceae UE4Editor.exe!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ff6ba7efcbe UE4Editor.exe!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ffcf74c7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: [Callstack] 0x00007ffcf77aced1 ntdll.dll!UnknownFunction []
+[2020.03.11-15.31.14:612][562]LogOutputDevice: Error: 
+[2020.03.11-15.31.14:615][562]LogStats:                SubmitErrorReport -  0.000 s
